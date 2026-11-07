@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/python-for-android/commit/1c9a4b4f817847bd8505d972d1a0e6f965929a88",
       "git:hexsha": "1c9a4b4f817847bd8505d972d1a0e6f965929a88",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/python-for-android/commit/a6c927e51a38b4fabb91795c640bb80751e93e04",
