@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "python-for-android",
+  "versions": [
+    {
+      "commit": "1c9a4b4f817847bd8505d972d1a0e6f965929a88",
+      "tag": "",
+      "parsed_at": "2026-11-07T11:57:55.243386+00:00"
+    }
+  ]
+}
